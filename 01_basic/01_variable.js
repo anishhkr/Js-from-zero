@@ -9,6 +9,7 @@ accountPassword = "4556265"
 accountCity = "UP"
 let accountState;
 
+
 /*
 Prefer not to use var:
 Because of issue in block scope and functional scope
